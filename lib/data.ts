@@ -154,7 +154,7 @@ export const skills = [
   },
   {
     category: "Other",
-    items: ["SEO", "WebRTC", "OpenCV", "MediaPipe", "WCAG Accessibility"],
+    items: ["SEO", "WebRTC", "OpenCV", "MediaPipe"],
   },
 ];
 
