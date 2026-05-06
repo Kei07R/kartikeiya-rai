@@ -5,7 +5,7 @@ export const personalInfo = {
   email: "kei.skillsboost@gmail.com",
   linkedin: "https://linkedin.com/in/kartikeiya-rai",
   github: "https://github.com/Kei07R",
-  location: "",
+  location: "Mumbai, India",
 };
 
 export const experiences = [
@@ -74,7 +74,14 @@ export const projects = [
     name: "Elgemo",
     description:
       "A room-code based peer-to-peer video chat app — no accounts needed. Users share a 6-character code to connect via WebRTC, with in-call text chat routed through the Socket.IO signaling server.",
-    tech: ["React Native", "Expo", "WebRTC", "Node.js", "Socket.IO", "TypeScript"],
+    tech: [
+      "React Native",
+      "Expo",
+      "WebRTC",
+      "Node.js",
+      "Socket.IO",
+      "TypeScript",
+    ],
     github: "https://github.com/Kei07R/elgemo",
     live: "https://elgemo-red.vercel.app",
     featured: false,
