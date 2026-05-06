@@ -15,11 +15,11 @@ export const experiences = [
     period: "Jun 2025 – Mar 2026",
     location: "Mumbai, India",
     bullets: [
-      "Inherited and modernized a WordPress website — refactored CSS debt, implemented Custom Post Types, and performed SEO optimization.",
       "Engineered an MVP pipeline analyzing user conversations to extract 8–10 psychographic attributes per user for personalized profiling.",
       "Built an internal database management tool handling 200,000+ records with bulk extraction and segmentation into Excel reports.",
       "Developed a Course Gifting Admin Dashboard for full transaction visibility — senders, recipients, timestamps, and status.",
       "Implemented a Voucher Management Panel with full CRUD functionality for the course platform.",
+      "Inherited and modernized a WordPress website — refactored CSS debt, implemented Custom Post Types, and performed SEO optimization.",
       "Migrated blog content from WordPress to Shopify alongside UI improvements, copywriting, and image optimization.",
       "Boosted Shopify blog SEO scores from ~60 to 85+ through structured on-page optimization.",
       "Leveraged Microsoft Clarity to monitor user behavior and generate actionable UX insights.",
@@ -43,8 +43,7 @@ export const experiences = [
     bullets: [
       "Researched and benchmarked Material UI, ShadCN, Mantine, and Chakra UI to inform foundation of a centralized React UI Component Library.",
       "Contributed to 10+ reusable React.js components with TailwindCSS, adhering to WCAG accessibility and responsive design principles.",
-      "Collaborated in a cross-functional team of 9+ engineers and designers across code reviews, design discussions, and sprint planning.",
-      "Authored component documentation that reduced developer onboarding ramp-up time by 40%.",
+      "Authored component documentation to improve developer onboarding.",
       "Supported user research initiatives — developer interviews, live demos, and survey design — translating feedback into DX improvements.",
     ],
     tech: ["React.js", "TailwindCSS", "JavaScript", "Git"],
